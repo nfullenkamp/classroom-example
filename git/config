@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /Users/petersouter/projects/courseware-virtual/managing_puppet_code/_files/example
+	ignorecase = true
+	precomposeunicode = true
